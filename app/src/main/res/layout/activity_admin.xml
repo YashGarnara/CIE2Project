@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Admin"
-    android:background="@color/Yellow">
+    android:background="@color/Gray">
 
     <Button
         android:id="@+id/btnDisplay"

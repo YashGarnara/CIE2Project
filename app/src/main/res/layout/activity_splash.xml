@@ -19,6 +19,12 @@
             android:layout_height="300dp"
             app:srcCompat="@mipmap/fuel_launcher_foreground" />
 
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Devloped By Yash Garnara" />
+
     </LinearLayout>
 
 
